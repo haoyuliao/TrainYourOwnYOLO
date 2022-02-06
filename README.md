@@ -1,3 +1,5 @@
+The guideline of setting yolo.h5 are here https://github.com/AntonMu/TrainYourOwnYOLO/blob/50781251c1d82669ee3306f8b29ce44d0e514070/2_Training/src/keras_yolo3/README.md
+
 # TrainYourOwnYOLO: Building a Custom Object Detector from Scratch [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/197467673.svg)](https://zenodo.org/badge/latestdoi/197467673)
 
 This repo let's you train a custom image detector using the state-of-the-art [YOLOv3](https://pjreddie.com/darknet/yolo/) computer vision algorithm. For a short write up check out this [medium post](https://medium.com/@muehle/how-to-train-your-own-yolov3-detector-from-scratch-224d10e55de2). This repo works with TensorFlow 2.3 and Keras 2.4.
